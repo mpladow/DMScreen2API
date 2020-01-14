@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmScreen2API", "DmScreen2API\DmScreen2API.csproj", "{24E78081-5F64-44CF-A0B2-103AF095D12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E78081-5F64-44CF-A0B2-103AF095D12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E78081-5F64-44CF-A0B2-103AF095D12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E78081-5F64-44CF-A0B2-103AF095D12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E78081-5F64-44CF-A0B2-103AF095D12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72B3C6C0-DDA2-4149-ABC5-CCD27F730DF4}
+	EndGlobalSection
+EndGlobal
